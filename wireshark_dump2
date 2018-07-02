@@ -1,0 +1,72 @@
+     25 0.864919000    141.22.27.112         130.226.71.229        HTTP     467    GET /vejr/ HTTP/1.1 
+     27 0.882185000    130.226.71.229        141.22.27.112         HTTP     2002   HTTP/1.1 200 OK  (text/html)
+     57 1.004224000    141.22.27.112         130.226.71.229        HTTP     516    GET /fileadmin/templates//JavaScript/libs/jquery-ui-1.11.2.min.js HTTP/1.1 
+     58 1.004628000    141.22.27.112         130.226.71.229        HTTP     570    GET /typo3temp/compressor/print-e86865180f34ee6def36bb7356977d85.css HTTP/1.1 
+     59 1.005022000    141.22.27.112         130.226.71.229        HTTP     490    GET /typo3temp/javascript_757c080409.js HTTP/1.1 
+     62 1.006804000    141.22.27.112         130.226.71.229        HTTP     503    GET /fileadmin/templates//JavaScript/libs/leaflet.js HTTP/1.1 
+     63 1.006899000    141.22.27.112         130.226.71.229        HTTP     515    GET /fileadmin/templates//StyleSheets/leaflet.css HTTP/1.1 
+     64 1.007940000    141.22.27.112         130.226.71.229        HTTP     495    GET /fileadmin/annoncer/jtm.loader.v1.min.js HTTP/1.1 
+     65 1.021466000    130.226.71.229        141.22.27.112         HTTP     506    HTTP/1.1 304 Not Modified 
+     67 1.021661000    141.22.27.112         130.226.71.229        HTTP     498    GET /fileadmin/templates//JavaScript/plugins.js HTTP/1.1 
+     69 1.021830000    130.226.71.229        141.22.27.112         HTTP     492    HTTP/1.1 304 Not Modified 
+     71 1.021939000    141.22.27.112         130.226.71.229        HTTP     503    GET /fileadmin/templates//JavaScript/solr-suggest.js HTTP/1.1 
+     73 1.022241000    130.226.71.229        141.22.27.112         HTTP     506    HTTP/1.1 304 Not Modified 
+     79 1.023992000    130.226.71.229        141.22.27.112         HTTP     505    HTTP/1.1 304 Not Modified 
+     81 1.024056000    130.226.71.229        141.22.27.112         HTTP     491    HTTP/1.1 304 Not Modified 
+     86 1.025206000    130.226.71.229        141.22.27.112         HTTP     506    HTTP/1.1 304 Not Modified 
+     91 1.038747000    130.226.71.229        141.22.27.112         HTTP     506    HTTP/1.1 304 Not Modified 
+     92 1.039070000    130.226.71.229        141.22.27.112         HTTP     506    HTTP/1.1 304 Not Modified 
+    109 1.124912000    141.22.27.112         130.226.71.229        HTTP     491    GET /fileadmin/templates/Images/logo.png HTTP/1.1 
+    110 1.124943000    141.22.27.112         130.226.71.229        HTTP     595    GET /fileadmin/templates/Images/dmi_green_button.png HTTP/1.1 
+    111 1.124977000    141.22.27.112         130.226.71.229        HTTP     518    GET /uploads/tx_dmidatastore/webservice/b/m/u/h/t/vejrkortthumb.png HTTP/1.1 
+    112 1.125009000    141.22.27.112         130.226.71.229        HTTP     514    GET /uploads/tx_dmidatastore/webservice/k/d/_/n/g/femdgn_dk.png HTTP/1.1 
+    113 1.125036000    141.22.27.112         130.226.71.229        HTTP     486    GET /fileadmin/Images/VU/spacer.gif HTTP/1.1 
+    114 1.126400000    141.22.27.112         130.226.71.229        HTTP     485    GET /typo3temp/pics/4adc192dc9.jpg HTTP/1.1 
+    116 1.142162000    130.226.71.229        141.22.27.112         HTTP     430    HTTP/1.1 304 Not Modified 
+    118 1.142238000    130.226.71.229        141.22.27.112         HTTP     431    HTTP/1.1 304 Not Modified 
+    120 1.142274000    130.226.71.229        141.22.27.112         HTTP     431    HTTP/1.1 304 Not Modified 
+    122 1.142296000    130.226.71.229        141.22.27.112         HTTP     431    HTTP/1.1 304 Not Modified 
+    124 1.142308000    130.226.71.229        141.22.27.112         HTTP     431    HTTP/1.1 304 Not Modified 
+    126 1.143641000    130.226.71.229        141.22.27.112         HTTP     432    HTTP/1.1 304 Not Modified 
+    128 1.150466000    141.22.27.112         130.226.71.229        HTTP     490    GET /uploads/tx_news/vimpelbaal_thu.jpg HTTP/1.1 
+    129 1.150513000    141.22.27.112         130.226.71.229        HTTP     492    GET /uploads/tx_news/lysestested_thu2.jpg HTTP/1.1 
+    130 1.150542000    141.22.27.112         130.226.71.229        HTTP     500    GET /uploads/tx_news/sankthans_madsdreier_thu.jpg HTTP/1.1 
+    131 1.150571000    141.22.27.112         130.226.71.229        HTTP     501    GET /fileadmin/templates/JavaScript/libs/spring.js HTTP/1.1 
+    132 1.167676000    130.226.71.229        141.22.27.112         HTTP     431    HTTP/1.1 304 Not Modified 
+    133 1.167770000    130.226.71.229        141.22.27.112         HTTP     505    HTTP/1.1 304 Not Modified 
+    134 1.167782000    130.226.71.229        141.22.27.112         HTTP     431    HTTP/1.1 304 Not Modified 
+    135 1.167788000    130.226.71.229        141.22.27.112         HTTP     432    HTTP/1.1 304 Not Modified 
+    139 1.172654000    141.22.27.112         130.226.71.229        HTTP     573    GET /Data4DmiDk/getData?type=forecast&lonMin=0&latMin=50&lonMax=20&latMax=70&level=4&country=DK HTTP/1.1 
+    141 1.189863000    130.226.71.229        141.22.27.112         HTTP     2962   HTTP/1.1 200 OK  (application/json)
+    156 1.216820000    141.22.27.112         54.246.203.196        HTTP     341    GET /jtm.js?cid=JTM-23914 HTTP/1.1 
+    157 1.239951000    141.22.27.112         130.226.71.229        HTTP     497    GET /fileadmin/Images/WeatherSymbol/wx_sun.png HTTP/1.1 
+    158 1.239999000    141.22.27.112         130.226.71.229        HTTP     502    GET /fileadmin/Images/WeatherSymbol/wx_overcast.png HTTP/1.1 
+    160 1.254172000    141.22.27.112         130.226.71.229        HTTP     498    GET /fileadmin/Images/WeatherSymbol/wx_rain.png HTTP/1.1 
+    161 1.257182000    130.226.71.229        141.22.27.112         HTTP     430    HTTP/1.1 304 Not Modified 
+    162 1.257229000    130.226.71.229        141.22.27.112         HTTP     430    HTTP/1.1 304 Not Modified 
+    165 1.260000000    54.246.203.196        141.22.27.112         HTTP     452    HTTP/1.1 200 OK  (application/javascript)
+    169 1.271397000    130.226.71.229        141.22.27.112         HTTP     431    HTTP/1.1 304 Not Modified 
+    172 1.293151000    141.22.27.112         130.226.71.229        HTTP     503    GET /fileadmin/Images/WeatherSymbol/wx_lightrain.png HTTP/1.1 
+    174 1.310258000    130.226.71.229        141.22.27.112         HTTP     431    HTTP/1.1 304 Not Modified 
+    178 1.327420000    141.22.27.112         130.226.71.229        HTTP     618    GET /fileadmin/templates/StyleSheets/images/ui-bg_flat_75_ffffff_40x100.png HTTP/1.1 
+    180 1.344596000    130.226.71.229        141.22.27.112         HTTP     431    HTTP/1.1 304 Not Modified 
+    186 1.379444000    141.22.27.112         77.66.39.42           HTTP     481    GET /j0=,,,;+,cp=dmi+url=http%3A%2F%2Fwww.dmi.dk%2Fvejr%2F;;;?lt=jiugvkxk&x=1920x1200x24&c=00005b3113b1b1db0000 HTTP/1.1 
+    192 1.406368000    77.66.39.42           141.22.27.112         HTTP     493    HTTP/1.1 302 Moved Temporarily  (text/html) (text/html)
+    209 1.480028000    141.22.27.112         151.139.241.1         HTTP     443    GET /iframes/read-test-cookie.php HTTP/1.1 
+    216 1.503661000    151.139.241.1         141.22.27.112         HTTP     655    HTTP/1.1 200 OK  (text/html)
+    227 1.524691000    141.22.27.112         52.222.155.240        HTTP     607    GET /api/v1/partner/sakjubii/uid?urq=a%2Cb%2Cc&bust3.1 HTTP/1.1 
+    239 1.543130000    52.222.155.240        141.22.27.112         HTTP     568    HTTP/1.1 304 Not Modified 
+    258 1.574467000    141.22.27.112         52.222.155.240        HTTP     480    GET /hit.gif?t=JBIm-onuwKa4CHEOikSB3cyoE2Q&rnd=1ujs9pm2rb HTTP/1.1 
+    263 1.594351000    52.222.155.240        141.22.27.112         HTTP     721    HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+    267 1.794067000    141.22.27.112         52.222.155.240        HTTP     568    GET /w_29b07ba2-02ae-431c-a291-2077732a04d9/settings.js HTTP/1.1 
+    270 1.847239000    52.222.155.240        141.22.27.112         HTTP     519    HTTP/1.1 304 Not Modified 
+    275 1.987825000    141.22.27.112         52.222.155.240        HTTP     535    GET /SystemSettings.js HTTP/1.1 
+    291 2.024759000    52.222.155.240        141.22.27.112         HTTP     512    HTTP/1.1 304 Not Modified 
+    349 2.469785000    141.22.27.112         62.67.193.31          HTTP     872    GET /a/10848/25294/98722-9.js?&cb=0.18862391981408&tk_st=1&rf=http%3A//www.dmi.dk/vejr/&rp_s=c&p_pos=atf&p_screen_res=1920x1200&ad_slot=25294_9 HTTP/1.1 
+    367 2.541459000    62.67.193.31          141.22.27.112         HTTP     1413   HTTP/1.1 200 OK  (text/javascript)
+    371 2.552703000    141.22.27.112         62.67.193.31          HTTP     876    GET /a/10848/25294/123642-9.js?&cb=0.32604974369786066&tk_st=1&rf=http%3A//www.dmi.dk/vejr/&rp_s=c&p_pos=btf&p_screen_res=1920x1200&ad_slot=25294_9 HTTP/1.1 
+    381 2.606199000    141.22.27.112         62.67.193.31          HTTP     876    GET /a/10848/25294/98718-38.js?&cb=0.6426821875011605&tk_st=1&rf=http%3A//www.dmi.dk/vejr/&rp_s=c&p_pos=atf&p_screen_res=1920x1200&ad_slot=25294_38 HTTP/1.1 
+    392 2.653992000    62.67.193.31          141.22.27.112         HTTP     1221   HTTP/1.1 200 OK  (text/javascript)
+    403 2.665667000    141.22.27.112         62.67.193.43          HTTP     1109   GET /beacon/d/32c46d6e-134d-4820-ac10-e0dd473bedb1?oo=0&accountId=10848&siteId=25294&zoneId=123642&sizeId=9&e=6A1E40E384DA563B94E8FE25A647283B62102BE8CC04BD0783EB00A7FCBA5C5C47226261DDF46042CEDE8B995570A0D6FDE8485D8ECAC9C2BFA171F0CDD5320028D7D2331CE63539DE4C6453089EA940172CD28438FCBB6AFAA930B4954B0A1FAC0E4087D33E8C65607EBC548AC839E090BF4B1D4120C90A4538B2C3073E49B995BCEA9A1A431B34 HTTP/1.1 
+    411 2.688890000    62.67.193.43          141.22.27.112         HTTP     321    HTTP/1.1 200 OK  (GIF89a) (GIF89a) (image/gif)
+    426 2.767401000    62.67.193.31          141.22.27.112         HTTP     1421   HTTP/1.1 200 OK  (text/javascript)
